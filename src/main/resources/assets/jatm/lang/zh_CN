@@ -1,0 +1,17 @@
+itemGroup.tabJATM=Just Another Tech Mod
+
+tile.jatm:furnaceGenerator.name=熔炉发电机
+tile.jatm:electricFurnace.name=电炉
+tile.jatm:electricCrusher.name=电动粉碎机
+tile.jatm:fluidGenerator.name=流体发电机
+tile.jatm:basicCable.name=基础RF线缆
+tile.jatm:basicRFStorage.name=基础RF容器
+tile.jatm:ironTank.name=铁质流体槽
+tile.jatm:goldTank.name=金质流体槽
+tile.jatm:diamondTank.name=钻石流体槽
+tile.jatm:oreCopper.name=铜矿
+
+item.jatm:dustIron.name=铁粉
+item.jatm:dustGold.name=金粉
+item.jatm:dustCopper.name=铜粉
+item.jatm:ingotCopper.name=铜锭
